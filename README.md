@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on a Trading Website as a Frontend web developer.
 - 🌱 I’m currently learning JavaScript and Angular framework.
 - 👯‍♂️ I’m looking to collaborate on some JavaScript Projects.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
+- * email: sasiang64@gmail.com
+- 😄 Pronouns: He/Him
 - 👨🏻‍💻 Technologies: JavaScript, Angular, HTML, CSS, Tailwind CSS, Bootstrap, Wordpress
 
