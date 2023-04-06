@@ -14,7 +14,8 @@ My name is Kaarlo, a Frontend web developer since 2020.
 ### Technologies and Languages
   
 <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" height="50" /></a>
-<a href="ttps://angular.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" height="50" /></a>
+<a href="https://angular.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" height="50" /></a>
+<a href="https://www.php.net/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" height="50" /></a>
 <a href="https://www.w3schools.com/html" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height="50" /></a>
 <a href="https://www.w3schools.com/css" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height="50" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="50" /></a>
