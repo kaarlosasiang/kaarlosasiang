@@ -29,6 +29,6 @@ I'm a **Frontend Web Developer** since 2020 — passionate about crafting clean,
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaarlosasiang&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kaarlosasiang&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaarlosasiang&theme=tokyonight" width="600"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kaarlosasiang&show_icons=true&theme=tokyonight" width="600">
 </p>
